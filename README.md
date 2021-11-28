@@ -7,7 +7,7 @@ The problem that it solves in this challenge is to ensure there are no barries t
 
 ## Installation
 
-Project was uploaded to [Github](https://github.com/) at the following repository: https://github.com/patty345/HTML-CSS-GIT-Coderefactor
+Project was uploaded to [Github](https://github.com/) at the following repository: https://github.com/patty345/Code_Refactore_PD
 
 You can find the deployed application in Github pages link: https://patty345.github.io/HTML-CSS-GIT-Coderefactor/
 
