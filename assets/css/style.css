@@ -1,7 +1,7 @@
-/* Global rules and elements */
+/*  Global rules and elements  */
 
 * {
-  /* Universal selector, clearing padding and margins */
+  /* Universal selector */
   box-sizing: border-box;
   padding: 0;
   margin: 0;
@@ -14,15 +14,15 @@ a {
   color: #ffffff;
   text-decoration: none;
 }
+
 p {
   font-size: 16px;
 }
 
-/* Structural content style */
+/* Structural content */
 
-/* Header */
 .header {
-  /* Header Format */
+  /*  Header  */
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -40,7 +40,6 @@ p {
 }
 
 .header nav {
-  /* Navigation  */
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -57,7 +56,7 @@ p {
   margin-left: 25px;
 }
 
-/* Hero Style Start */
+/* Hero */
 .hero {
   height: 800px;
   width: 100%;
@@ -66,16 +65,13 @@ p {
   background-size: cover;
   background-position: center;
 }
-/* Hero Style End */
 
-/*  Content  */
-
+/*  Main Content  */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
-
 #search-engine-optimization,
 #online-reputation-management,
 #social-media-marketing {
@@ -101,6 +97,7 @@ p {
 #social-media-marketing img {
   max-height: 200px;
 }
+
 #search-engine-optimization h2,
 #online-reputation-management h2,
 #social-media-marketing h2 {
@@ -108,7 +105,7 @@ p {
   font-size: 36px;
 }
 
-/* Benefits section */
+/* Benefits Content */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -119,7 +116,6 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
-
 #benefit-lead,
 #benefit-brand,
 #benefit-cost {
@@ -142,8 +138,7 @@ p {
   max-width: 150px;
 }
 
-/*  Footer  */
-
+/* Footer  */
 .footer {
   padding: 30px;
   clear: both;
@@ -155,4 +150,3 @@ p {
 .footer h2 {
   font-size: 20px;
 }
-/* footer ends */
