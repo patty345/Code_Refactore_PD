@@ -5,6 +5,8 @@
 In this week challenge i was asked to refactor the current code without changing what it does, and make it more acessible.
 The problem that it solves in this challenge is to ensure there are no barries that prevent interaction with this website by people with physical disabilities. This allows more users to have equal access to information and functionallity.
 
+![project screen caption](/assets/images/project_screen_caption.png)
+
 ## Installation
 
 Project was uploaded to [Github](https://github.com/) at the following repository: https://github.com/patty345/Code_Refactore_PD
