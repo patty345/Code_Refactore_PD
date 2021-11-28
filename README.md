@@ -9,7 +9,7 @@ The problem that it solves in this challenge is to ensure there are no barries t
 
 Project was uploaded to [Github](https://github.com/) at the following repository: https://github.com/patty345/Code_Refactore_PD
 
-You can find the deployed application in Github pages link: https://patty345.github.io/HTML-CSS-GIT-Coderefactor/
+You can find the deployed application in Github pages link: https://patty345.github.io/Code_Refactore_PD/
 
 ## Output
 
@@ -19,7 +19,3 @@ Going through the modules, research and making changes to the files, the final p
 
 Xander Rapstine for providing this starter code
 https://github.com/Xandromus
-
-## License
-
-Licensed under the [MIT](./LICENSE.txt) license.
